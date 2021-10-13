@@ -23,6 +23,6 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
- Sign Up                        |     Sign In
+ Sign In                        |     Sign Up
 :-------------------------:     |     :-------------------------:
 <img src="https://github.com/Nandan01/instagram-iOS/blob/main/instagram-pt1.gif" width="270" height="550"/>     |     <img src="https://github.com/Nandan01/instagram-iOS/blob/main/instagram-pt1.2.gif" width="270" height="550"/>
