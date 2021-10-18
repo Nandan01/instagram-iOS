@@ -22,10 +22,7 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src="https://github.com/Nandan01/instagram-iOS/blob/main/instagram-app-pt2.gif" width="270" height="550"/>    <img src="https://github.com/Nandan01/instagram-iOS/blob/main/instagram-app-pt2.2.gif" width="270" height="550"/>
 
 # Parstagram - Part I
 
